@@ -4,5 +4,6 @@ texlive-science
 texlive-latex-extra
 texlive-fonts-recommended
 latexmk
+texlive-xetex
 nano
 vim
