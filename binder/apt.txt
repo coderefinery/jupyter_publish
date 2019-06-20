@@ -1,8 +1,5 @@
-texlive-latex-base
-texlive-latex-recommended
-texlive-science
-texlive-latex-extra
 texlive-fonts-recommended
+texlive-generic-recommended
 latexmk
 texlive-xetex
 nano
