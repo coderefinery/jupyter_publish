@@ -13,11 +13,13 @@ This repository shows how to create a repository with a fully repoducible enviro
 ## Quick Instructions
 
 1.  Do *not* fork this repository directly on GitHub.
-    Instead, import it.
+    Instead, import it
+    ![Import repository](img/coderefinery_import.png)
+
 
 2.  Once you have created your repository go to [https://mybinder.org/](https://mybinder.org/)
 
-3.  Enter your repository address and **make sure you replace** *coderefinery* by your github *username*
+3.  Enter your repository address and **make sure you replace** *coderefinery* by your github *username* and press **launch**
     ![Import repository in Binder](img/coderefinery_binder.png)
 
 ## Local installation (on your laptop)
