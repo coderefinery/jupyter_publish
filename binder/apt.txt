@@ -1,4 +1,5 @@
 texlive-xetex
 latexmk
+texlive-fonts-recommended
 nano
 vim
