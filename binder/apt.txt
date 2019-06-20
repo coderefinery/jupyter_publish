@@ -1,0 +1,4 @@
+texlive-xetex
+latexmk
+nano
+vim
