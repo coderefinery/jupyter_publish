@@ -13,7 +13,6 @@ This repository shows how to create a repository with a fully repoducible enviro
 
 1.  Do *not* fork this repository directly on GitHub.
     Instead, import it.
-    ![Import repository](img/import_repo.png)
 
 2.  Once you have created your repository go to [https://mybinder.org/](https://mybinder.org/)
 
