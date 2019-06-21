@@ -34,6 +34,15 @@ The workshop is organized with 5 sections from getting familiar with JupyterLab 
 - [Convert your notebook with ipypublish](jupyter_publish-4.ipynb)
 - [Share and Publish Jupyter notebooks](jupyter_publish-5.ipynb)
 
+The [pdf document](jupyter_publish.pdf) has been generated with the following command:
+
+```
+nbpublish -f latex_ipypublish_all -pdf jupyter_publish
+```
+
+Where `jupyter_publish` is this repository.
+
+
 # Step-2: Beyond the state of the art
 
 Being able to reproduce what someone has published is the first step but our main motivation as a researcher is to use the paper we read as a starting point to go beyond the state of the start and generate new results (using new datasets or changing/adapting algorithms, etc.).
@@ -44,7 +53,7 @@ Sharing your [research objects](http://www.researchobject.org/) with Binder make
 
 1.  Import this repository directly on GitHub. 
 
-    ![Import repository](img/coderefinery_import.png)
+    ![Import repository](img/Import_repo.png)
 
 **Note**: you may fork it instead if you are willing to keep a "link" with the original work. 
 
