@@ -44,7 +44,7 @@ Sharing your [research objects](http://www.researchobject.org/) with Binder make
 
 1.  Import this repository directly on GitHub. 
 
-    ![Import repository](img/coderefinery_import.png)
+    ![Import repository](img/Import_repo.png)
 
 **Note**: you may fork it instead if you are willing to keep a "link" with the original work. 
 
