@@ -45,7 +45,7 @@ Where `jupyter_publish` is this repository.
 
 # Step-2: Beyond the state of the art
 
-Being able to reproduce what someone has published is the first step but our main motivation as a researcher is to use the paper we read as a starting point to go beyond the state of the start and generate new results (using new datasets or changing/adapting algorithms, etc.).
+Being able to reproduce what someone has published is the first step but our main motivation as a researcher is to use the paper we read as a starting point to go beyond the state of the art and generate new results (using new datasets or changing/adapting algorithms, etc.).
 
 Sharing your [research objects](http://www.researchobject.org/) with Binder makes this step much easier and can help you to be more visible as a researcher (by increasing the number of citations).
 
